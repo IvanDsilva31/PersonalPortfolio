@@ -15,8 +15,8 @@ const greeting = {
   full_name: "Ivan Dsilva",
   subTitle: "Front End Developer, Keen on learning new technologies.",
   resumeLink:
-    "https://drive.google.com/file/d/1LIgSJuenw2AT7IIwctQTGr0ft2b-Gd2J/view?usp=sharing",
-  mail: "mailto:ivandsilva3110@outlook.com",
+    "https://drive.google.com/file/d/1KnjtnYYALegcLRGWyB2R_w-sutyyjY8b/view?usp=sharing",
+  mail: "mailto:dsilva.ivan.02@gmail.com",
 };
 
 const socialMediaLinks = {
@@ -30,7 +30,7 @@ const socialMediaLinks = {
 const skills = {
   data: [
     {
-      title: "Front End Development",
+      title: "Web Development",
       fileName: "FullStackImg",
       skills: [
         "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
