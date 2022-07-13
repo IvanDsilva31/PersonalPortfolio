@@ -7,7 +7,7 @@
     "node": "14.x"
   },
   "scripts": {
-    "build": "npm run build",
+    "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -b gh-pages -d build",
     "eject": "react-scripts eject",
