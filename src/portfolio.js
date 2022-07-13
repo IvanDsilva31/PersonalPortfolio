@@ -389,7 +389,7 @@ const experience = {
           company_url: "https://crcestuco.com",
           logo_path: "stucologo.png",
           duration: "July 2021 - June 2022",
-          description: `Developed various websites for the council throughour the year. \n
+          description: `Developed various websites for the council throughour the year. 
 
           Successfully conducted, managed and organized various events such as CRMD (National Level Debate Competition), Athlead (Intra Sports Competition), Crescendo (Annual Technical Festival), Euphoria (Annual Cultural Festival), FragMag (Annual College Magazine) to name a few.
           
