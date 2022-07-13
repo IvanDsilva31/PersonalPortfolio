@@ -29,7 +29,8 @@ function Education(props) {
                 className="experience-header-detail-text subTitle"
                 style={{ color: theme.secondaryText }}
               >
-                I love learning new technologies | Lorem ipsum dior balenciaga
+                I love learning new technologies | Currently in my third year of
+                Computer Engineering @ FR.CRCE
               </p>
             </div>
           </div>
