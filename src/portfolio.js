@@ -491,7 +491,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects make use of a vast variety of latest technology tools.Currently working on building React projects. Below are some of my projects. All of the mentioned projects are on GitHub yet.",
+    "My projects make use of a vast variety of latest technology tools.Currently working on building React projects. Below are some of my projects. All of the mentioned projects are on GitHub.",
   avatar_image_path: "projects_image.svg",
 };
 
